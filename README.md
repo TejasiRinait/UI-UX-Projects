@@ -16,3 +16,5 @@ Features
 
 . Accessibility: Inclusive design accommodating users with different abilities.
 
+Here is the screenshot and a video demonstration of the mobile sign-up flow to give a visual overview.
+
